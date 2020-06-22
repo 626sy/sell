@@ -25,8 +25,21 @@ public class OrderMaster {
     /*买家名字*/
     private String buyerName;
 
-    /*总金额*/
+    /*订单的总金额*/
     private BigDecimal orderAmount;
+
+    //买家电话
+    private  String buyerPhone;
+
+    //买家地址
+    private  String buyerAddress;
+
+    //订单状态
+
+    //创建时间
+
+    //修改时间
+
 
 
 }
